@@ -1,0 +1,21 @@
+node_modules/
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# env files
+.env
+.env.*
+
+# build
+build/
+coverage/
